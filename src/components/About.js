@@ -22,7 +22,7 @@ const toggleStyle = () =>{
     })
     setBtnTxt("Enable Light Mode")
    }
-}
+}       
   return (
     <div className='container' style={mystyle}>
        <h2 className='my-3'>About Us</h2>
